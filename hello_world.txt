@@ -1,0 +1,2 @@
+Testing out new git commit vs git commit -m
+Couldnt figure it out totally so im just committing to get rid of the yellow in my vscode because i dont like it :)
