@@ -1,1 +1,1 @@
-# git_test
+Hi today is 07 JUN 2024. I plan on working on TOP all summer and get some IT certs.
